@@ -14,12 +14,12 @@ const Footer = (): JSX.Element => {
   return (
     <S.Wrapper>
       <S.LinkGrid>
-        <H3>LINKS</H3>
+        {/* <H3>LINKS</H3> */}
         <UserLinks includeRss />
       </S.LinkGrid>
       <S.Info>
         <Caption>
-          Based on{" "}
+          ساخته شده با{" "}
           <AnimatedLink to="https://github.com/Vagr9K/gatsby-advanced-starter">
             Gatsby Advanced Starter
           </AnimatedLink>

@@ -19,7 +19,6 @@ const ReadButton = styled(GatsbyLink)`
 
   justify-content: start;
   align-items: center;
-
   @media (max-width: ${constants.breakpoints.lg}) {
     display: none;
   }
@@ -29,7 +28,7 @@ type ArticleButtonProps = { to: string };
 
 const ArticleButton = ({ to }: ArticleButtonProps): JSX.Element => (
   <ReadButton to={to}>
-    Read the article <Exit size={28} />
+    خواندن مطلب <Exit size={28} />
   </ReadButton>
 );
 

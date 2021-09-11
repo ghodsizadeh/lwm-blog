@@ -11,13 +11,13 @@ type ArticleInfoProps = {
 
 const ArticleInfo = ({ post }: ArticleInfoProps): JSX.Element => {
   const categoryUrl = post.category ? `/category/${post.category}` : undefined;
-
+  // todo update date to jalaali
   const publicationDate = `${categoryUrl ? "\u00A0⋅ " : ""}${format(
     post.datePublished,
     "LLL d, y"
   )}`;
 
-  const timeToRead = ` ⋅ ${post.timeToRead} min read`;
+  const timeToRead = ` زمان مطالعه: ${post.timeToRead} دقیقه `;
 
   const infoCaption = `${publicationDate}${timeToRead}`;
 

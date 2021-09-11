@@ -11,6 +11,7 @@ const AboutPage = (): JSX.Element => {
   return (
     <Layout>
       <div className="about-container">
+        درباره من
         <Helmet title={`About | ${config.website.title}`} />
       </div>
     </Layout>
