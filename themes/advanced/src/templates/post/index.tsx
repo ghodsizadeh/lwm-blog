@@ -30,6 +30,7 @@ const PostTemplate = ({
         <code>{JSON.stringify(post, null, 2)}</code>
       </pre>
       <pre>
+        سسس
         <code>{JSON.stringify(pageContext, null, 2)}</code>
       </pre>
     </>

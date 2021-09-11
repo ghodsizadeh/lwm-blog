@@ -4,6 +4,7 @@ const CssReset = createGlobalStyle`
 
   html {
     box-sizing: border-box;
+    direction: rtl;
   }
   *,
   *:before,
