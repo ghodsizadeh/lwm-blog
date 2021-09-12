@@ -41,7 +41,7 @@
   "dependencies": {
     "gatsby": "^3.11.0",
     "gatsby-plugin-image": "^1.11.0",
-    "gatsby-plugin-mdx": "^2.11.0",
+    "gatsby-plugin-mdx": "^2.13.0",
     "gatsby-theme-advanced": "workspace:*",
     "lodash": "^4.17.21",
     "react": "^17.0.2",
