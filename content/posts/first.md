@@ -1,6 +1,7 @@
 ---
 title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
+categories: ["blog"]
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
@@ -10,26 +11,23 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png" # image path/url
+    image: "/img/lwm-logo1z.png" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    caption: "توضیحات" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single page
+
 ---
 sssss
