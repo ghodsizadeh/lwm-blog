@@ -89,7 +89,7 @@ params:
         google:
         # add env variable GOOGLE_GA
 
-            SiteVerificationTag: "${GOOGLE_GA}"
+            SiteVerificationTag: "289938610"
         bing:
             SiteVerificationTag: "XYZabc"
         yandex:
