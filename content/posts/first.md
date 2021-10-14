@@ -1,19 +1,24 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
-categories: ["blog"]
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+title: "معرفی"
+date: 2021-10-15T23:36:03+30:00
+tags: 
+    - شخصی
+
+categories:
+    - Economics
+    - Data
+    - Programming
+    - Blog
+
+author: "مهدی قدسی‌زاده"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: true
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+comments: false
+description: "معرفی من، مهدی قدسی‌زاده و هدف وبلاگ و یوتوب"
+canonicalURL: "https://learnwithmehdi.ir/posts/first/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -23,11 +28,40 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/img/lwm-logo1z.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "توضیحات" # display caption under cover
-    relative: true # when using page bundles set this to true
+    image: "https://source.unsplash.com/GnvurwJsKaY/1200x720"
+    alt: "x" # alt text
+    caption: "معرفی یادگیری با مهدی" # display caption under cover
+    relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
-sssss
+
+# معرفی
+سلام! من مهدی قدسی‌زاده هستم. برنامه‌نویس و فارغ‌التحصیل اقتصاد
+
+دوتا از بزرگترین علایق من برنامه‌نویسی و اقتصاد هست و زمانی که وقت داشته باشم برای یادگرفتن این دو مورد تلاش می‌کنم.
+
+برای اینکه بتونم با تمرکز بیشتری این دو موضوع رو پیش ببرم یک کانال یوتوب راه‌اندازی کردم که در اون درباره برنامه‌نویسی و اقتصاد صحبت می‌کنم و سعی می‌کنم ابزارها و تکنینک‌هایی که یاد می‌گیرم رو یاد بدم تا هم خودم کار با اون‌ها رو یاد بگیرم و هم به افراد دیگه آموزش بدم.
+
+## کانال یوتوب
+الان حدود ۸ ماه هست که در وقت فراغت برای 
+[کانال یوتوبم](https://youtube.com/channel/UCF3v_GwH3Jg2c-V3hRwmcbg/)
+ویدیو تولید می‌کنم و بازخور خیلی خوبی از خودم! و دنبال‌کننده‌ها گرفتم.
+
+برای خودم فرایند لذت‌بخش و مفیدی بود و یکی از مفیدترین لحظات هفته‌ام محسوب می‌شد.
+از همین طریق هم با دوستان مختلفی آشنا شدیم و البته با دوستان قدیمی هم تجدید دیدار کردم. :)
+
+
+## چای و پایتون
+یکی از نتایج شروع کانال ویدیو‌های بود که با 
+[دکتر قدوسی عزیز](https://chaay.ghoddusi.com)
+آماده کردیم. این ویدیو‌ها همچنان ادامه داره و بنظرم نکات خوبی برای دانشجویان و علاقه‌مند
+داره
+
+{{< youtube 2LflrYnhJzs >}}
+
+
+این وبلاگ هم به عنوان همراه اون کانال یوتوب بوجود اومده و در جاهایی که محتوای تکمیلی نیاز باشه در این وبلاگ  در موردش صحبت می‌شه.
+
+ممنون میشم نظرات و پیشنهاد‌هاتون رو با من در میون بگذارید و اگر فکر می‌کنید این کانال می‌تونه برای دوستانتون هم مفید باشه با اون‌ها به اشتراک بگذارید.
+

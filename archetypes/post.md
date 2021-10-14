@@ -4,7 +4,12 @@ date: 2021-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
-author: "Me"
+categories:
+    - Economics
+    - Data
+    - Programming
+    - Blog
+author: "مهدی قدسی‌زاده"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -12,7 +17,7 @@ draft: false
 hidemeta: false
 comments: true
 description: "Desc Text."
-canonicalURL: "https://learnwithmehdi.ir/"
+canonicalURL: "https://learnwithmehdi.ir/posts"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 hideSummary: false

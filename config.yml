@@ -19,7 +19,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: یادگیری با مهدی
-    description: نوشته‌ها  و ویدیوهایی در مورد برنامه‌نویسی، اقتصاد و دیتا
+    description: نوشته‌ها  و ویدیوهایی در مورداقتصاد، برنامه‌نویسیو دیتا
     keywords: [Blog, Portfolio, PaperMod]
     author: مهدی قدسی‌زاده
     # author: ["Me", "You"] # multiple authors
@@ -35,7 +35,7 @@ params:
     ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
-    comments: true
+    comments: false
     hidemeta: false
     hideSummary: false
     showtoc: true
@@ -72,7 +72,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "یادگیری با مهدی \U0001F44B"
-        Content: نوشته‌ها و ویدیوهایی در مورد برنامه‌نویسی، اقتصاد و دیتا
+        Content: نوشته‌ها و ویدیوهایی در مورداقتصاد، برنامه‌نویسیو دیتا
 
     socialIcons:
         - name: twitter
@@ -128,7 +128,7 @@ menu:
           weight: 20
         - identifier: youtube
           name: کانال یوتوب
-          url: https://youtube.com
+          url: https://youtube.com/channel/UCF3v_GwH3Jg2c-V3hRwmcbg/
           weight: 30
 
 
