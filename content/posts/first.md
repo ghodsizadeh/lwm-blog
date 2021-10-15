@@ -1,41 +1,35 @@
 ---
-title: "معرفی"
-date: 2021-10-15T23:36:03+30:00
-tags: 
-    - شخصی
-
+title: معرفی
+date: 2021-10-15T23:36:03+00:00
+tags:
+- شخصی
 categories:
-    - Economics
-    - Data
-    - Programming
-    - Blog
-
-author: "مهدی قدسی‌زاده"
-# author: ["Me", "You"] # multiple authors
+- Economics
+- Data
+- Programming
+- Blog
+author: مهدی قدسی‌زاده
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
-description: "معرفی من، مهدی قدسی‌زاده و هدف وبلاگ و یوتوب"
-canonicalURL: "https://learnwithmehdi.ir/posts/first/"
-disableHLJS: true # to disable highlightjs
-disableShare: false
+description: معرفی من، مهدی قدسی‌زاده و هدف وبلاگ و یوتوب
+canonicalURL: https://learnwithmehdi.ir/posts/first/
 disableHLJS: false
+disableShare: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://source.unsplash.com/GnvurwJsKaY/1200x720"
-    alt: "x" # alt text
-    caption: "معرفی یادگیری با مهدی" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+  image: https://source.unsplash.com/GnvurwJsKaY/1200x720
+  alt: x
+  caption: معرفی یادگیری با مهدی
+  relative: false
+  hidden: false
 
 ---
-
 # معرفی
 سلام! من مهدی قدسی‌زاده هستم. برنامه‌نویس و فارغ‌التحصیل اقتصاد
 
@@ -64,4 +58,3 @@ cover:
 این وبلاگ هم به عنوان همراه اون کانال یوتوب بوجود اومده و در جاهایی که محتوای تکمیلی نیاز باشه در این وبلاگ  در موردش صحبت می‌شه.
 
 ممنون میشم نظرات و پیشنهاد‌هاتون رو با من در میون بگذارید و اگر فکر می‌کنید این کانال می‌تونه برای دوستانتون هم مفید باشه با اون‌ها به اشتراک بگذارید.
-
