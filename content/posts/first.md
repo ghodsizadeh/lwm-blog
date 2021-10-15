@@ -1,13 +1,11 @@
 ---
 title: معرفی
-date: 2021-10-15T23:36:03+00:00
+date: 2021-10-13T23:36:03+00:00
 tags:
 - شخصی
 categories:
 - Economics
-- Data
 - Programming
-- Blog
 author: مهدی قدسی‌زاده
 showToc: true
 TocOpen: false
