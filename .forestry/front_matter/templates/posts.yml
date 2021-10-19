@@ -75,3 +75,5 @@ fields:
   - type: boolean
     name: hidden
     label: hidden
+pages:
+- content/posts/netlify-gohugo.md
