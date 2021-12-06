@@ -19,7 +19,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: یادگیری با مهدی
-    description: نوشته‌ها  و ویدیوهایی در مورداقتصاد، برنامه‌نویسیو دیتا
+    description: نوشته‌ها  و ویدیوهایی در مورداقتصاد، برنامه‌نویسی‌ و دیتا
     keywords: [Blog, Portfolio, PaperMod]
     author: مهدی قدسی‌زاده
     # author: ["Me", "You"] # multiple authors
@@ -72,7 +72,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "یادگیری با مهدی \U0001F44B"
-        Content: نوشته‌ها و ویدیوهایی در مورداقتصاد، برنامه‌نویسیو دیتا
+        Content: نوشته‌ها و ویدیوهایی در مورداقتصاد، برنامه‌نویسی‌ و دیتا
 
     socialIcons:
         - name: twitter
