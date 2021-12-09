@@ -16,7 +16,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: fale
-description: "حذف فایل‌های بزرگ از گیت‌هاب با استفاده از "
+description: "حذف فایل‌های بزرگ از گیت‌هاب با استفاده از  BFG Repo-Cleaner"
 canonicalURL: "https://learnwithmehdi.ir/posts/remove-git-bigfiles"
 disableHLJS: false # to disable highlightjs
 disableShare: false
