@@ -42,6 +42,8 @@ cover:
 [![GitHub stars](https://img.shields.io/github/stars/ghodsizadeh/tehran-stocks?label=Github%20Stars)](https://github.com/ghodsizadeh/tehran-stocks/stargazers)
 و بیش از ۳۵ هزار بار نصب شده.
 
+{{< youtube id="5ktBsR9Em58" autoplay="true"  >}}
+
 امروز به صورت رسمی نسخه شماره ۱.۰.۰ این کتابخانه منتشر شده و شما می‌تونید با دستور زیر اون رو نصب کنید:
 
 ```bash
